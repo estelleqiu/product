@@ -1,10 +1,15 @@
-# README
+# Ruby on Rails Tutorial sample application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the sample application for
+[*Ruby on Rails Tutorial:
+Learn Web Developemnt with Rails*](http://www.railstutorial.org/)
+by[Michael Hartl](http://www.michalhart.com/).
 
 Things you may want to cover:
+```
+$ bundle install
 
+```
 * Ruby version
 
 * System dependencies
